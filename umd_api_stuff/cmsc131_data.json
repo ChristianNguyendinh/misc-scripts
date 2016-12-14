@@ -1,0 +1,626 @@
+{
+    "dept_id": "CMSC",
+    "semester": "201608",
+    "department": "Computer Science",
+    "name": "Object-Oriented Programming I",
+    "gen_ed": [],
+    "relationships": {
+        "prereqs": null,
+        "restrictions": null,
+        "credit_granted_for": null,
+        "restricted_to": null,
+        "coreqs": null,
+        "credit_only_granted_for": null,
+        "also_offered_as": null,
+        "formerly": null
+    },
+    "core": [],
+    "grading_method": [
+        "Regular"
+    ],
+    "course_id": "CMSC131",
+    "credits": "4",
+    "description": "Corequisite: MATH140; and permission of CMNS-Computer Science department.Introduction to programming and computer science. Emphasizes understanding and implementation of applications using object-oriented techniques. Develops skills such as program design and testing as well as implementation of programs using a graphical IDE. Programming done in Java.For CMSC majors only.",
+    "sections": [
+        {
+            "instructors": [
+                "Pedram Sadeghian"
+            ],
+            "number": "0101",
+            "open_seats": "3",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0101",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "2:00pm",
+                    "end_time": "2:50pm",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "8:00am",
+                    "end_time": "8:50am",
+                    "days": "MW",
+                    "room": "2118",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Pedram Sadeghian"
+            ],
+            "number": "0102",
+            "open_seats": "0",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0102",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "2:00pm",
+                    "end_time": "2:50pm",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "9:00am",
+                    "end_time": "9:50am",
+                    "days": "MW",
+                    "room": "2118",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Pedram Sadeghian"
+            ],
+            "number": "0103",
+            "open_seats": "2",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0103",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "2:00pm",
+                    "end_time": "2:50pm",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "10:00am",
+                    "end_time": "10:50am",
+                    "days": "MW",
+                    "room": "2120",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Pedram Sadeghian"
+            ],
+            "number": "0104",
+            "open_seats": "0",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0104",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "2:00pm",
+                    "end_time": "2:50pm",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "11:00am",
+                    "end_time": "11:50am",
+                    "days": "MW",
+                    "room": "2120",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Pedram Sadeghian"
+            ],
+            "number": "0201",
+            "open_seats": "2",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0201",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "3:00pm",
+                    "end_time": "3:50pm",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "8:00am",
+                    "end_time": "8:50am",
+                    "days": "MW",
+                    "room": "2120",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Pedram Sadeghian"
+            ],
+            "number": "0202",
+            "open_seats": "2",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0202",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "3:00pm",
+                    "end_time": "3:50pm",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "9:00am",
+                    "end_time": "9:50am",
+                    "days": "MW",
+                    "room": "2120",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Pedram Sadeghian"
+            ],
+            "number": "0203",
+            "open_seats": "1",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0203",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "3:00pm",
+                    "end_time": "3:50pm",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "10:00am",
+                    "end_time": "10:50am",
+                    "days": "MW",
+                    "room": "2118",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Pedram Sadeghian"
+            ],
+            "number": "0204",
+            "open_seats": "4",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0204",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "3:00pm",
+                    "end_time": "3:50pm",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "11:00am",
+                    "end_time": "11:50am",
+                    "days": "MW",
+                    "room": "2118",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Pedram Sadeghian"
+            ],
+            "number": "0301",
+            "open_seats": "2",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0301",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "11:00am",
+                    "end_time": "11:50am",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "4:00pm",
+                    "end_time": "4:50pm",
+                    "days": "MW",
+                    "room": "2118",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Pedram Sadeghian"
+            ],
+            "number": "0302",
+            "open_seats": "1",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0302",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "11:00am",
+                    "end_time": "11:50am",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "5:00pm",
+                    "end_time": "5:50pm",
+                    "days": "MW",
+                    "room": "2120",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Pedram Sadeghian"
+            ],
+            "number": "0303",
+            "open_seats": "1",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0303",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "11:00am",
+                    "end_time": "11:50am",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "4:00pm",
+                    "end_time": "4:50pm",
+                    "days": "MW",
+                    "room": "2120",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Pedram Sadeghian"
+            ],
+            "number": "0304",
+            "open_seats": "0",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0304",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "11:00am",
+                    "end_time": "11:50am",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "5:00pm",
+                    "end_time": "5:50pm",
+                    "days": "MW",
+                    "room": "2118",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Evan Golub"
+            ],
+            "number": "0501",
+            "open_seats": "2",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0501",
+            "seats": "25",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "4:00pm",
+                    "end_time": "4:50pm",
+                    "days": "MWF",
+                    "room": "0226",
+                    "building": "HJP"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "1:00pm",
+                    "end_time": "1:50pm",
+                    "days": "MW",
+                    "room": "2120",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Evan Golub"
+            ],
+            "number": "0502",
+            "open_seats": "3",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0502",
+            "seats": "25",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "4:00pm",
+                    "end_time": "4:50pm",
+                    "days": "MWF",
+                    "room": "0226",
+                    "building": "HJP"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "2:00pm",
+                    "end_time": "2:50pm",
+                    "days": "MW",
+                    "room": "2120",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Evan Golub"
+            ],
+            "number": "0503",
+            "open_seats": "1",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0503",
+            "seats": "25",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "4:00pm",
+                    "end_time": "4:50pm",
+                    "days": "MWF",
+                    "room": "0226",
+                    "building": "HJP"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "12:00pm",
+                    "end_time": "12:50pm",
+                    "days": "MW",
+                    "room": "2120",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Evan Golub"
+            ],
+            "number": "0504",
+            "open_seats": "0",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0504",
+            "seats": "25",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "4:00pm",
+                    "end_time": "4:50pm",
+                    "days": "MWF",
+                    "room": "0226",
+                    "building": "HJP"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "2:00pm",
+                    "end_time": "2:50pm",
+                    "days": "MW",
+                    "room": "2118",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Evan Golub"
+            ],
+            "number": "0505",
+            "open_seats": "1",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0505",
+            "seats": "25",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "4:00pm",
+                    "end_time": "4:50pm",
+                    "days": "MWF",
+                    "room": "0226",
+                    "building": "HJP"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "12:00pm",
+                    "end_time": "12:50pm",
+                    "days": "MW",
+                    "room": "2118",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Evan Golub"
+            ],
+            "number": "0506",
+            "open_seats": "0",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0506",
+            "seats": "25",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "4:00pm",
+                    "end_time": "4:50pm",
+                    "days": "MWF",
+                    "room": "0226",
+                    "building": "HJP"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "1:00pm",
+                    "end_time": "1:50pm",
+                    "days": "MW",
+                    "room": "2118",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Evan Golub"
+            ],
+            "number": "0507",
+            "open_seats": "2",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0507",
+            "seats": "25",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "4:00pm",
+                    "end_time": "4:50pm",
+                    "days": "MWF",
+                    "room": "0226",
+                    "building": "HJP"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "2:00pm",
+                    "end_time": "2:50pm",
+                    "days": "MW",
+                    "room": "1121",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Evan Golub"
+            ],
+            "number": "0508",
+            "open_seats": "4",
+            "semester": "201608",
+            "course": "CMSC131",
+            "waitlist": "0",
+            "section_id": "CMSC131-0508",
+            "seats": "25",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "4:00pm",
+                    "end_time": "4:50pm",
+                    "days": "MWF",
+                    "room": "0226",
+                    "building": "HJP"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "3:00pm",
+                    "end_time": "3:50pm",
+                    "days": "MW",
+                    "room": "1121",
+                    "building": "CSI"
+                }
+            ]
+        }
+    ]
+}

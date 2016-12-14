@@ -1,0 +1,476 @@
+{
+    "dept_id": "CMSC",
+    "semester": "201608",
+    "department": "Computer Science",
+    "name": "Object-Oriented Programming II",
+    "gen_ed": [],
+    "relationships": {
+        "prereqs": null,
+        "restrictions": null,
+        "credit_granted_for": null,
+        "restricted_to": null,
+        "coreqs": null,
+        "credit_only_granted_for": null,
+        "also_offered_as": null,
+        "formerly": null
+    },
+    "core": [],
+    "grading_method": [
+        "Regular"
+    ],
+    "course_id": "CMSC132",
+    "credits": "4",
+    "description": "Prerequisite: Minimum grade of C- in CMSC131; or must have earned a score of 5 on the A Java AP exam. Or permission of the department based on satisfactory performance on the department placement exam; and minimum grade of C- in MATH140; and permission of CMNS-Computer Science department.Introduction to use of computers to solve problems using software engineering principles. Design, build, test, and debug medium -size software systems and learn to use relevant tools. Use object-oriented methods to create effective and efficient problem solutions. Use and implement application programming interfaces (APIs). Programming done in Java.",
+    "sections": [
+        {
+            "instructors": [
+                "Fawzi Emad"
+            ],
+            "number": "0101",
+            "open_seats": "1",
+            "semester": "201608",
+            "course": "CMSC132",
+            "waitlist": "0",
+            "section_id": "CMSC132-0101",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "10:00am",
+                    "end_time": "10:50am",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "11:00am",
+                    "end_time": "11:50am",
+                    "days": "MW",
+                    "room": "2107",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Fawzi Emad"
+            ],
+            "number": "0102",
+            "open_seats": "1",
+            "semester": "201608",
+            "course": "CMSC132",
+            "waitlist": "0",
+            "section_id": "CMSC132-0102",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "10:00am",
+                    "end_time": "10:50am",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "12:00pm",
+                    "end_time": "12:50pm",
+                    "days": "MW",
+                    "room": "2107",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Fawzi Emad"
+            ],
+            "number": "0103",
+            "open_seats": "1",
+            "semester": "201608",
+            "course": "CMSC132",
+            "waitlist": "0",
+            "section_id": "CMSC132-0103",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "10:00am",
+                    "end_time": "10:50am",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "1:00pm",
+                    "end_time": "1:50pm",
+                    "days": "MW",
+                    "room": "2107",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Fawzi Emad"
+            ],
+            "number": "0104",
+            "open_seats": "3",
+            "semester": "201608",
+            "course": "CMSC132",
+            "waitlist": "0",
+            "section_id": "CMSC132-0104",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "10:00am",
+                    "end_time": "10:50am",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "2:00pm",
+                    "end_time": "2:50pm",
+                    "days": "MW",
+                    "room": "2107",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Fawzi Emad"
+            ],
+            "number": "0201",
+            "open_seats": "0",
+            "semester": "201608",
+            "course": "CMSC132",
+            "waitlist": "0",
+            "section_id": "CMSC132-0201",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "1:00pm",
+                    "end_time": "1:50pm",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "8:00am",
+                    "end_time": "8:50am",
+                    "days": "MW",
+                    "room": "3118",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Fawzi Emad"
+            ],
+            "number": "0202",
+            "open_seats": "0",
+            "semester": "201608",
+            "course": "CMSC132",
+            "waitlist": "0",
+            "section_id": "CMSC132-0202",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "1:00pm",
+                    "end_time": "1:50pm",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "9:00am",
+                    "end_time": "9:50am",
+                    "days": "MW",
+                    "room": "3118",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Fawzi Emad"
+            ],
+            "number": "0203",
+            "open_seats": "4",
+            "semester": "201608",
+            "course": "CMSC132",
+            "waitlist": "0",
+            "section_id": "CMSC132-0203",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "1:00pm",
+                    "end_time": "1:50pm",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "10:00am",
+                    "end_time": "10:50am",
+                    "days": "MW",
+                    "room": "1122",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Fawzi Emad"
+            ],
+            "number": "0204",
+            "open_seats": "5",
+            "semester": "201608",
+            "course": "CMSC132",
+            "waitlist": "0",
+            "section_id": "CMSC132-0204",
+            "seats": "30",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "1:00pm",
+                    "end_time": "1:50pm",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "11:00am",
+                    "end_time": "11:50am",
+                    "days": "MW",
+                    "room": "1122",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Fawzi Emad"
+            ],
+            "number": "0301",
+            "open_seats": "6",
+            "semester": "201608",
+            "course": "CMSC132",
+            "waitlist": "0",
+            "section_id": "CMSC132-0301",
+            "seats": "25",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "12:00pm",
+                    "end_time": "12:50pm",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "8:00am",
+                    "end_time": "8:50am",
+                    "days": "MW",
+                    "room": "2107",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Fawzi Emad"
+            ],
+            "number": "0302",
+            "open_seats": "2",
+            "semester": "201608",
+            "course": "CMSC132",
+            "waitlist": "0",
+            "section_id": "CMSC132-0302",
+            "seats": "25",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "12:00pm",
+                    "end_time": "12:50pm",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "9:00am",
+                    "end_time": "9:50am",
+                    "days": "MW",
+                    "room": "2107",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Fawzi Emad"
+            ],
+            "number": "0303",
+            "open_seats": "4",
+            "semester": "201608",
+            "course": "CMSC132",
+            "waitlist": "0",
+            "section_id": "CMSC132-0303",
+            "seats": "25",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "12:00pm",
+                    "end_time": "12:50pm",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "8:00am",
+                    "end_time": "8:50am",
+                    "days": "MW",
+                    "room": "1121",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Nelson Padua-Perez"
+            ],
+            "number": "0401",
+            "open_seats": "6",
+            "semester": "201608",
+            "course": "CMSC132",
+            "waitlist": "0",
+            "section_id": "CMSC132-0401",
+            "seats": "35",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "9:00am",
+                    "end_time": "9:50am",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "3:00pm",
+                    "end_time": "3:50pm",
+                    "days": "MW",
+                    "room": "2107",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Nelson Padua-Perez"
+            ],
+            "number": "0402",
+            "open_seats": "1",
+            "semester": "201608",
+            "course": "CMSC132",
+            "waitlist": "0",
+            "section_id": "CMSC132-0402",
+            "seats": "35",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "9:00am",
+                    "end_time": "9:50am",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "4:00pm",
+                    "end_time": "4:50pm",
+                    "days": "MW",
+                    "room": "2107",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Nelson Padua-Perez"
+            ],
+            "number": "0403",
+            "open_seats": "3",
+            "semester": "201608",
+            "course": "CMSC132",
+            "waitlist": "0",
+            "section_id": "CMSC132-0403",
+            "seats": "35",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "9:00am",
+                    "end_time": "9:50am",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "10:00am",
+                    "end_time": "10:50am",
+                    "days": "MW",
+                    "room": "2107",
+                    "building": "CSI"
+                }
+            ]
+        },
+        {
+            "instructors": [
+                "Nelson Padua-Perez"
+            ],
+            "number": "0404",
+            "open_seats": "1",
+            "semester": "201608",
+            "course": "CMSC132",
+            "waitlist": "0",
+            "section_id": "CMSC132-0404",
+            "seats": "35",
+            "meetings": [
+                {
+                    "classtype": "",
+                    "start_time": "9:00am",
+                    "end_time": "9:50am",
+                    "days": "MWF",
+                    "room": "1115",
+                    "building": "CSI"
+                },
+                {
+                    "classtype": "Discussion",
+                    "start_time": "5:00pm",
+                    "end_time": "5:50pm",
+                    "days": "MW",
+                    "room": "2107",
+                    "building": "CSI"
+                }
+            ]
+        }
+    ]
+}
