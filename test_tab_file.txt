@@ -1,0 +1,21 @@
+import something
+
+public class asdf {
+	/*
+	I
+	Am some
+
+	comments
+	*/
+
+	if (blah) {
+		do this
+		if (bleh) {
+			do that
+		} else {
+			do this
+		}
+	}
+
+							print "These are all TABS";
+}
